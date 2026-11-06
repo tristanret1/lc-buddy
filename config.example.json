@@ -1,0 +1,18 @@
+{
+  "lang": "python3",
+  "list": "0x3f",
+  "daily_new": 1,
+  "daily_reviews": 2,
+  "review_intervals": [3, 7, 14, 30],
+  "weak_interval": 1,
+  "target_date": null,
+  "git_commit": true,
+  "git_push": false,
+  "auth_browser": null,
+  "max_rating": 2200,
+  "skip_premium": true,
+  "skip_optional": true,
+  "focus": [],
+  "goal": null,
+  "rotation": { "enabled": true, "block": 5, "order": [] }
+}

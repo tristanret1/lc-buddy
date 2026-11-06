@@ -1,0 +1,16 @@
+[project]
+name = "lc-buddy"
+version = "0.1.0"
+description = "LeetCode grind companion driven from Claude Code skills (stdlib only)"
+requires-python = ">=3.10"
+dependencies = []
+
+[project.scripts]
+lcb = "lcb.cli:main"
+
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[tool.setuptools]
+packages = ["lcb"]

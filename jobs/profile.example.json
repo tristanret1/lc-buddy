@@ -1,0 +1,23 @@
+{
+  "level": "senior",
+  "years": 5,
+  "locations": ["Your city (hybrid OK)", "Your country, remote", "Companies that hire remote in your country"],
+  "min_salary": 120000,
+  "currency": "CAD",
+  "salary_note": "the bar; a strong role below it is still worth a look",
+  "role_titles": ["Senior Software Engineer", "Software Engineer II/III", "Backend Engineer"],
+  "stack": ["Python", "Go", "TypeScript", "PostgreSQL", "Kubernetes", "AWS"],
+  "domains": ["what you have actually built, one line each"],
+  "must_not": ["requires work authorization you don't have", "contract-only", "junior / new grad"],
+  "resume": "jobs/resume.md",
+  "fit_rubric": {
+    "5": "right level, right location/remote, stack overlap, salary >= bar",
+    "4": "one of the above slightly off",
+    "3": "two off, still worth applying",
+    "2": "long shot: location or level is a stretch",
+    "1": "only if nothing else",
+    "0": "does not fit (wrong country, junior, contract)"
+  },
+  "resume_flags": ["things the coach should remember when tailoring: gaps, short tenures, what to lead with"],
+  "watch_companies": {}
+}

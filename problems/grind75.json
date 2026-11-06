@@ -1,0 +1,532 @@
+{
+ "name": "Grind 75",
+ "source": "https://www.techinterviewhandbook.org/grind75",
+ "description": "75 problems, ordered as an 8-week plan (~1 problem/day). Weeks 1-2 easy fundamentals, 3-7 medium, 8 hard.",
+ "problems": [
+  {
+   "id": 1,
+   "slug": "two-sum",
+   "difficulty": "Easy",
+   "topic": "Array",
+   "week": 1
+  },
+  {
+   "id": 20,
+   "slug": "valid-parentheses",
+   "difficulty": "Easy",
+   "topic": "Stack",
+   "week": 1
+  },
+  {
+   "id": 21,
+   "slug": "merge-two-sorted-lists",
+   "difficulty": "Easy",
+   "topic": "Linked List",
+   "week": 1
+  },
+  {
+   "id": 121,
+   "slug": "best-time-to-buy-and-sell-stock",
+   "difficulty": "Easy",
+   "topic": "Array",
+   "week": 1
+  },
+  {
+   "id": 125,
+   "slug": "valid-palindrome",
+   "difficulty": "Easy",
+   "topic": "String",
+   "week": 1
+  },
+  {
+   "id": 226,
+   "slug": "invert-binary-tree",
+   "difficulty": "Easy",
+   "topic": "Binary Tree",
+   "week": 1
+  },
+  {
+   "id": 242,
+   "slug": "valid-anagram",
+   "difficulty": "Easy",
+   "topic": "String",
+   "week": 1
+  },
+  {
+   "id": 704,
+   "slug": "binary-search",
+   "difficulty": "Easy",
+   "topic": "Binary Search",
+   "week": 1
+  },
+  {
+   "id": 733,
+   "slug": "flood-fill",
+   "difficulty": "Easy",
+   "topic": "Graph",
+   "week": 1
+  },
+  {
+   "id": 235,
+   "slug": "lowest-common-ancestor-of-a-binary-search-tree",
+   "difficulty": "Medium",
+   "topic": "Binary Search Tree",
+   "week": 1
+  },
+  {
+   "id": 110,
+   "slug": "balanced-binary-tree",
+   "difficulty": "Easy",
+   "topic": "Binary Tree",
+   "week": 1
+  },
+  {
+   "id": 141,
+   "slug": "linked-list-cycle",
+   "difficulty": "Easy",
+   "topic": "Linked List",
+   "week": 1
+  },
+  {
+   "id": 232,
+   "slug": "implement-queue-using-stacks",
+   "difficulty": "Easy",
+   "topic": "Stack",
+   "week": 1
+  },
+  {
+   "id": 278,
+   "slug": "first-bad-version",
+   "difficulty": "Easy",
+   "topic": "Binary Search",
+   "week": 2
+  },
+  {
+   "id": 383,
+   "slug": "ransom-note",
+   "difficulty": "Easy",
+   "topic": "Hash Table",
+   "week": 2
+  },
+  {
+   "id": 70,
+   "slug": "climbing-stairs",
+   "difficulty": "Easy",
+   "topic": "Dynamic Programming",
+   "week": 2
+  },
+  {
+   "id": 409,
+   "slug": "longest-palindrome",
+   "difficulty": "Easy",
+   "topic": "String",
+   "week": 2
+  },
+  {
+   "id": 206,
+   "slug": "reverse-linked-list",
+   "difficulty": "Easy",
+   "topic": "Linked List",
+   "week": 2
+  },
+  {
+   "id": 169,
+   "slug": "majority-element",
+   "difficulty": "Easy",
+   "topic": "Array",
+   "week": 2
+  },
+  {
+   "id": 67,
+   "slug": "add-binary",
+   "difficulty": "Easy",
+   "topic": "Binary",
+   "week": 2
+  },
+  {
+   "id": 543,
+   "slug": "diameter-of-binary-tree",
+   "difficulty": "Easy",
+   "topic": "Binary Tree",
+   "week": 2
+  },
+  {
+   "id": 876,
+   "slug": "middle-of-the-linked-list",
+   "difficulty": "Easy",
+   "topic": "Linked List",
+   "week": 2
+  },
+  {
+   "id": 104,
+   "slug": "maximum-depth-of-binary-tree",
+   "difficulty": "Easy",
+   "topic": "Binary Tree",
+   "week": 2
+  },
+  {
+   "id": 217,
+   "slug": "contains-duplicate",
+   "difficulty": "Easy",
+   "topic": "Array",
+   "week": 2
+  },
+  {
+   "id": 53,
+   "slug": "maximum-subarray",
+   "difficulty": "Medium",
+   "topic": "Dynamic Programming",
+   "week": 2
+  },
+  {
+   "id": 57,
+   "slug": "insert-interval",
+   "difficulty": "Medium",
+   "topic": "Array",
+   "week": 3
+  },
+  {
+   "id": 542,
+   "slug": "01-matrix",
+   "difficulty": "Medium",
+   "topic": "Graph",
+   "week": 3
+  },
+  {
+   "id": 973,
+   "slug": "k-closest-points-to-origin",
+   "difficulty": "Medium",
+   "topic": "Heap",
+   "week": 3
+  },
+  {
+   "id": 3,
+   "slug": "longest-substring-without-repeating-characters",
+   "difficulty": "Medium",
+   "topic": "String",
+   "week": 3
+  },
+  {
+   "id": 15,
+   "slug": "3sum",
+   "difficulty": "Medium",
+   "topic": "Array",
+   "week": 3
+  },
+  {
+   "id": 102,
+   "slug": "binary-tree-level-order-traversal",
+   "difficulty": "Medium",
+   "topic": "Binary Tree",
+   "week": 3
+  },
+  {
+   "id": 133,
+   "slug": "clone-graph",
+   "difficulty": "Medium",
+   "topic": "Graph",
+   "week": 3
+  },
+  {
+   "id": 150,
+   "slug": "evaluate-reverse-polish-notation",
+   "difficulty": "Medium",
+   "topic": "Stack",
+   "week": 3
+  },
+  {
+   "id": 207,
+   "slug": "course-schedule",
+   "difficulty": "Medium",
+   "topic": "Graph",
+   "week": 4
+  },
+  {
+   "id": 208,
+   "slug": "implement-trie-prefix-tree",
+   "difficulty": "Medium",
+   "topic": "Trie",
+   "week": 4
+  },
+  {
+   "id": 322,
+   "slug": "coin-change",
+   "difficulty": "Medium",
+   "topic": "Dynamic Programming",
+   "week": 4
+  },
+  {
+   "id": 238,
+   "slug": "product-of-array-except-self",
+   "difficulty": "Medium",
+   "topic": "Array",
+   "week": 4
+  },
+  {
+   "id": 155,
+   "slug": "min-stack",
+   "difficulty": "Medium",
+   "topic": "Stack",
+   "week": 4
+  },
+  {
+   "id": 98,
+   "slug": "validate-binary-search-tree",
+   "difficulty": "Medium",
+   "topic": "Binary Search Tree",
+   "week": 4
+  },
+  {
+   "id": 200,
+   "slug": "number-of-islands",
+   "difficulty": "Medium",
+   "topic": "Graph",
+   "week": 4
+  },
+  {
+   "id": 994,
+   "slug": "rotting-oranges",
+   "difficulty": "Medium",
+   "topic": "Graph",
+   "week": 4
+  },
+  {
+   "id": 33,
+   "slug": "search-in-rotated-sorted-array",
+   "difficulty": "Medium",
+   "topic": "Binary Search",
+   "week": 5
+  },
+  {
+   "id": 39,
+   "slug": "combination-sum",
+   "difficulty": "Medium",
+   "topic": "Array",
+   "week": 5
+  },
+  {
+   "id": 46,
+   "slug": "permutations",
+   "difficulty": "Medium",
+   "topic": "Recursion",
+   "week": 5
+  },
+  {
+   "id": 56,
+   "slug": "merge-intervals",
+   "difficulty": "Medium",
+   "topic": "Array",
+   "week": 5
+  },
+  {
+   "id": 236,
+   "slug": "lowest-common-ancestor-of-a-binary-tree",
+   "difficulty": "Medium",
+   "topic": "Binary Tree",
+   "week": 5
+  },
+  {
+   "id": 981,
+   "slug": "time-based-key-value-store",
+   "difficulty": "Medium",
+   "topic": "Binary Search",
+   "week": 5
+  },
+  {
+   "id": 721,
+   "slug": "accounts-merge",
+   "difficulty": "Medium",
+   "topic": "Graph",
+   "week": 5
+  },
+  {
+   "id": 75,
+   "slug": "sort-colors",
+   "difficulty": "Medium",
+   "topic": "Array",
+   "week": 5
+  },
+  {
+   "id": 139,
+   "slug": "word-break",
+   "difficulty": "Medium",
+   "topic": "Trie",
+   "week": 6
+  },
+  {
+   "id": 416,
+   "slug": "partition-equal-subset-sum",
+   "difficulty": "Medium",
+   "topic": "Dynamic Programming",
+   "week": 6
+  },
+  {
+   "id": 8,
+   "slug": "string-to-integer-atoi",
+   "difficulty": "Medium",
+   "topic": "String",
+   "week": 6
+  },
+  {
+   "id": 54,
+   "slug": "spiral-matrix",
+   "difficulty": "Medium",
+   "topic": "Matrix",
+   "week": 6
+  },
+  {
+   "id": 78,
+   "slug": "subsets",
+   "difficulty": "Medium",
+   "topic": "Recursion",
+   "week": 6
+  },
+  {
+   "id": 199,
+   "slug": "binary-tree-right-side-view",
+   "difficulty": "Medium",
+   "topic": "Binary Tree",
+   "week": 6
+  },
+  {
+   "id": 5,
+   "slug": "longest-palindromic-substring",
+   "difficulty": "Medium",
+   "topic": "String",
+   "week": 6
+  },
+  {
+   "id": 62,
+   "slug": "unique-paths",
+   "difficulty": "Medium",
+   "topic": "Dynamic Programming",
+   "week": 6
+  },
+  {
+   "id": 105,
+   "slug": "construct-binary-tree-from-preorder-and-inorder-traversal",
+   "difficulty": "Medium",
+   "topic": "Binary Tree",
+   "week": 6
+  },
+  {
+   "id": 11,
+   "slug": "container-with-most-water",
+   "difficulty": "Medium",
+   "topic": "Array",
+   "week": 7
+  },
+  {
+   "id": 17,
+   "slug": "letter-combinations-of-a-phone-number",
+   "difficulty": "Medium",
+   "topic": "Recursion",
+   "week": 7
+  },
+  {
+   "id": 79,
+   "slug": "word-search",
+   "difficulty": "Medium",
+   "topic": "Graph",
+   "week": 7
+  },
+  {
+   "id": 438,
+   "slug": "find-all-anagrams-in-a-string",
+   "difficulty": "Medium",
+   "topic": "String",
+   "week": 7
+  },
+  {
+   "id": 310,
+   "slug": "minimum-height-trees",
+   "difficulty": "Medium",
+   "topic": "Graph",
+   "week": 7
+  },
+  {
+   "id": 621,
+   "slug": "task-scheduler",
+   "difficulty": "Medium",
+   "topic": "Heap",
+   "week": 7
+  },
+  {
+   "id": 146,
+   "slug": "lru-cache",
+   "difficulty": "Medium",
+   "topic": "Linked List",
+   "week": 7
+  },
+  {
+   "id": 230,
+   "slug": "kth-smallest-element-in-a-bst",
+   "difficulty": "Medium",
+   "topic": "Binary Search Tree",
+   "week": 8
+  },
+  {
+   "id": 76,
+   "slug": "minimum-window-substring",
+   "difficulty": "Hard",
+   "topic": "String",
+   "week": 8
+  },
+  {
+   "id": 297,
+   "slug": "serialize-and-deserialize-binary-tree",
+   "difficulty": "Hard",
+   "topic": "Binary Tree",
+   "week": 8
+  },
+  {
+   "id": 42,
+   "slug": "trapping-rain-water",
+   "difficulty": "Hard",
+   "topic": "Stack",
+   "week": 8
+  },
+  {
+   "id": 295,
+   "slug": "find-median-from-data-stream",
+   "difficulty": "Hard",
+   "topic": "Heap",
+   "week": 8
+  },
+  {
+   "id": 127,
+   "slug": "word-ladder",
+   "difficulty": "Hard",
+   "topic": "Graph",
+   "week": 8
+  },
+  {
+   "id": 224,
+   "slug": "basic-calculator",
+   "difficulty": "Hard",
+   "topic": "Stack",
+   "week": 8
+  },
+  {
+   "id": 1235,
+   "slug": "maximum-profit-in-job-scheduling",
+   "difficulty": "Hard",
+   "topic": "Binary Search",
+   "week": 8
+  },
+  {
+   "id": 23,
+   "slug": "merge-k-sorted-lists",
+   "difficulty": "Hard",
+   "topic": "Heap",
+   "week": 8
+  },
+  {
+   "id": 84,
+   "slug": "largest-rectangle-in-histogram",
+   "difficulty": "Hard",
+   "topic": "Stack",
+   "week": 8
+  }
+ ]
+}
